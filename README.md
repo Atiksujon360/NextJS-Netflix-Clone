@@ -311,8 +311,8 @@ Happy Hacking!
 # Author
 
 👤 **Atikur Rahman**
-- Github: https://github.com/AhmedTohamy01
-- Linkedin: https://www.linkedin.com/in/ATohamy
+- Github: https://gist.github.com/Atiksujon360
+- Linkedin: https://www.linkedin.com/in/md-atikur-rahman-864825140/
 - Email: atiksujon7@gmail.com
 
 # Show Your Support
